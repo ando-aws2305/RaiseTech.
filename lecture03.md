@@ -7,8 +7,7 @@
 - 起動（デプロイ）
 - ブラウザでの接続確認
 
-![Listing fruits]
-(img/lecture03_1.png)
+![Listing fruits](img/lecture03_1.png)
 
 
 ## APサーバーについて
@@ -16,8 +15,7 @@
 - バージョン：5.6.5
 - APサーバー終了後のアクセス状況確認：アクセスできない
 
-![Oops]
-(img/lecture03_2.png)
+![Oops](img/lecture03_2.png)
 
 #### コマンドメモ
 rails server　起動（Ctrl-C　終了）
@@ -28,8 +26,7 @@ rails server　起動（Ctrl-C　終了）
 - バージョン：8.0.33
 - DBサーバー終了後のアクセス状況確認：アクセスできない
 
-![Can't connecion]
-(images/lecture03_3.png)
+![Can't connecion](img/lecture03_3.png)
 
 ####　コマンドメモ 
 1. mysql --version バージョン確認 
