@@ -7,7 +7,7 @@
 - 起動（デプロイ）
 - ブラウザでの接続確認
 
-![Listing fruits](img/lecture03_1.png)
+![Listing fruits](lecture03_1.png)
 
 
 ## APサーバーについて
