@@ -28,8 +28,8 @@ rails server　起動（Ctrl-C　終了）
 
 ![Can't connecion](lecture03_3.png)
 
-####　コマンドメモ 
-1. mysql --version バージョン確認 
+#### コマンドメモ 
+1. mysql --version　バージョン確認 
 2. sudo service mysqld stop　停止
 3. sudo service mysqld restart　再起動
 
@@ -48,5 +48,5 @@ bundler --version　バージョン確認
 不明点を整理し、ひとつずつ知識を深めていかなければならないと感じました。
 
 また、課題提出用のPRに画像添付が出来ず、苦戦しました。  
-課題外にも学習することがたくさんあります。
+課題外にも学習することがまだまだたくさんあるなと痛感しました。
 
